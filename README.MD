@@ -2,3 +2,5 @@
 # Anthony Santa Ana Souza - 2026
 
 Projeto utilizado para aprender Git.
+
+alterado
